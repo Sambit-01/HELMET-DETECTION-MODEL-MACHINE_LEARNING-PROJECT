@@ -1,0 +1,4 @@
+train: /content/drive/My Drive/HELMET_DETECTION/DATASET/train
+val: /content/drive/My Drive/HELMET_DETECTION/DATASET/val
+nc: 2
+names: ['With Helmet', 'Without Helmet']

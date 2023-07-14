@@ -1,0 +1,4 @@
+train: /content/drive/My Drive/HELMET DETECTION/ANOTHER DATA/train2
+val: /content/drive/My Drive/HELMET DETECTION/ANOTHER DATA/val2
+nc: 2
+names: ["HELMET" , "NO_HELMET"]
